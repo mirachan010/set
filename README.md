@@ -3,7 +3,7 @@
 # やりたいこと
 + choco install
 + package.configからインストール
-+ .vimをgithubからcloneして"~/.vim/configs/users/.vimrc"を"~/.vimrc"にコピー
++ .vimをgithubからcloneして"!~/.vim/configs/users/.vimrc"を"!~/.vimrc"にコピー
 
 以上？
 ***
