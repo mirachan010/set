@@ -1,0 +1,2 @@
+# win_setting
+クリーンインストールしたwindowsにいろいろ入れるよう
