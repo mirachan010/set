@@ -1,7 +1,7 @@
-add-apt-repository ppa:jonathonf/vim
-apt upgrade --yes
-apt install vim
-exit
+sudo add-apt-repository ppa:jonathonf/vim
+sudo apt upgrade --yes
+sudo apt install wine
+sudo apt install vim
 cd ~/
 git clone http://github.com/mirachan010/.vim.git .vim
 cd ~/.vim
