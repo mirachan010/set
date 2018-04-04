@@ -7,3 +7,4 @@ git clone http://github.com/mirachan010/dotfiles.git dotfiles
 cd ~/dotfiles
 git clone http://github.com/mirachan010/.vim.git .vim
 sh ubuntu.sh
+vim
