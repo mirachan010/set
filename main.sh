@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#最初にホームディレクトリに移動しておく
+cd ~/
+
 #vim8.0用レポジトリ追加
 sudo add-apt-repository ppa:jonathonf/vim
 
