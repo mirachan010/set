@@ -15,6 +15,7 @@ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /et
 sudo apt-get update
 sudo apt update
 sudo apt upgrade --yes
+sudo apt install easystroke --yes
 sudo apt install wine --yes
 sudo apt install gimp --yes
 sudo apt install vim --yes
