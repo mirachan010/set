@@ -23,8 +23,11 @@ sudo apt install wine --yes
 sudo apt install gimp --yes
 sudo apt install vim --yes
 sudo apt install google-chrome-stable --yes
+
+#dotfilesの設定とか
 git clone http://github.com/mirachan010/dotfiles.git dotfiles
 cd ~/dotfiles
+#.vimを落としたりなんたり
 git clone http://github.com/mirachan010/.vim.git .vim
 sh dots.sh
 sudo rm /etc/apt/sources.list.d/google.list
