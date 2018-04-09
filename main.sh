@@ -25,5 +25,4 @@ cd ~/dotfiles
 #.vimを落としたりなんたり
 git clone http://github.com/mirachan010/.vim.git .vim
 sh dots.sh
-sudo rm /etc/apt/sources.list.d/google.list
 vim
