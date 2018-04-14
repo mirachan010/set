@@ -14,6 +14,7 @@ sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 sudo apt-get update
 sudo apt update
 sudo apt upgrade --yes
+sudo apt install default-jdk --yes
 sudo apt install easystroke --yes
 sudo apt install wine --yes
 sudo apt install gimp --yes
