@@ -3,9 +3,6 @@
 #最初にホームディレクトリに移動しておく
 cd ~/
 
-#vim8.0用レポジトリ追加
-sudo add-apt-repository ppa:jonathonf/vim
-
 #gimp用レポジトリ追加
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 
@@ -26,4 +23,5 @@ cd ~/dotfiles
 #.vimを落としたりなんたり
 git clone http://github.com/mirachan010/.vim.git .vim
 sh dots.sh
+chmod +x ~/dotfiles/main.sh
 vim
