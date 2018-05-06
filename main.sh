@@ -19,7 +19,7 @@ sudo apt install vim --yes
 sudo apt install chrome-gnome-shell
 sudo apt install gnome-tweak-tool
 #dotfilesの設定とか
-git clone http://github.com/mirachan010/.dotfiles.git dotfiles
+git clone http://github.com/mirachan010/dotfiles.git dotfiles
 cd ~/dotfiles
 #.vimを落としたりなんたり
 git clone http://github.com/mirachan010/.vim.git .vim
