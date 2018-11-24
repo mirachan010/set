@@ -6,3 +6,4 @@ pip install --upgrade pip
 pip install neovim
 pip install --user powerline-shell
 pip install --user powerline-status
+nvim
