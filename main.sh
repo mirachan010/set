@@ -19,8 +19,8 @@ curl -sL --protoredir -all,https https://raw.githubusercontent.com/zplug/install
 git clone git://github.com/yyuu/pyenv.git ~/.pyenv
 
 cd /usr/share/fonts/truetype
-fc-cache -vf
 sudo git clone https://github.com/mzyy94/RictyDiminished-for-Powerline.git powerline
+fc-cache -vf
 
 
 #dotfilesの設定とか
