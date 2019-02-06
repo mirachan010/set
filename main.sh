@@ -16,6 +16,7 @@ sudo apt install -y default-jdk terminator tmux git zsh curl gimp chrome-gnome-s
 #Qiitaに上げていた分
 chsh -s /usr/bin/zsh
 git clone git://github.com/yyuu/pyenv.git ~/.pyenv
+git clone git://github.com/rbenv/rbenv.git ~/.rbenv
 curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh
 
 cd /usr/share/fonts/truetype
