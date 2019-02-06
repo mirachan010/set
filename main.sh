@@ -16,7 +16,7 @@ sudo apt install -y default-jdk terminator tmux git zsh curl gimp chrome-gnome-s
 #Qiitaに上げていた分
 chsh -s /usr/bin/zsh
 git clone git://github.com/yyuu/pyenv.git ~/.pyenv
-curl -sL --protoredir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh
+curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh
 
 cd /usr/share/fonts/truetype
 sudo git clone https://github.com/mzyy94/RictyDiminished-for-Powerline.git powerline
