@@ -4,7 +4,7 @@
 cd ~/
 
 #gimp用レポジトリ追加
-sudo apt-get install software-properties-common
+sudo apt install software-properties-common
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 sudo apt-add-repository ppa:neovim-ppa/stable  
 
