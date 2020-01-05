@@ -1,9 +1,10 @@
 # ubuntu_setting
-1. vim8.0,gimp,wineをインストール
+1. vim8.0,gimpをインストール
 2. 全体のアップデート
 3. ホームディレクトリにgithub.com/mirachan010/dotfiles をクローン
 4. ~/dotfile/ に.vimをクローン
 5. .vimrcのリンクをホームディレクトリに貼る
+
 # win_setting
 クリーンインストールしたwindowsにいろいろ入れるよう
 # やりたいこと
