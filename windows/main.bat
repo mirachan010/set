@@ -4,8 +4,7 @@ Set-ExecutionPolicy RemoteSigned
  iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 choco upgrade chocolatey --yes
 choco install package.config --yes
-cd ~/
+cd %APPDATA%/../../dotfiles/windows
 git clone https://github.com/mirachan010/dotfiles.git
-cd dotfiles
-git clone https://github.com/mirachan010/.vim.git .vim
-sh dots.sh
+cd dotfiles/windows
+./dots.bat
